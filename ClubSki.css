@@ -185,13 +185,12 @@ body {
 
 
     nav {
-        font-size: 1em;
+        font-size: .6em;
         height: auto;
         padding: 15px 5px;
     }
 
     nav a {
-        display: block;
         margin: 10px 0;
         font-size: 1.1em;
     }
