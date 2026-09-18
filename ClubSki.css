@@ -185,14 +185,14 @@ body {
 
 
     nav {
-        font-size: 1.1em;
+        font-size: 1em;
         height: auto;
         padding: 15px 5px;
     }
 
     nav a {
         margin: 10px 0;
-        font-size: 1em;
+        font-size: 1.1em;
     }
 
     footer {
